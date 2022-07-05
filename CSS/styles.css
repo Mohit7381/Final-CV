@@ -1,0 +1,94 @@
+.profile-pic{
+    width:80px;
+    border-radius: 100%;
+}
+.nav-item{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.navbar{
+    padding-bottom: 3px;
+}
+.container-fluid{
+    margin-bottom: 0px;
+}
+.mountain{
+    width: 1495px;
+}
+.main{
+    text-align: center;
+}
+h1{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#top-container{
+    background-color:#F7CCAC ;
+}
+.skill-image{
+    width: 100px;
+    padding-bottom: 20px;
+}
+.row{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.skill-box:hover{
+    background-color: #F7CCAC;
+}
+.skill-box{
+    border-radius: 100%;
+}
+h6{
+    text-align: center;
+    padding-top:5px ;
+    padding-bottom: 20px;
+}
+.title-qualification{
+    padding-bottom: 1px;
+    padding-top: 10px;
+}
+#qualification-container{
+    text-align: center;
+}
+#hobbies-container{
+    background-color: #F7CCAC;
+    padding-bottom: 100px;
+}
+svg {
+    background-color: transparent;
+  }
+  .dotted-line {
+    fill: none;
+    stroke: #F7CCAC;
+    stroke-width: 2;
+    marker: url(#circle-marker);
+  }
+  #circle-marker circle {
+    fill: #F7CCAC;
+    stroke: #F7CCAC;
+  }
+.title{
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+    color: aliceblue;
+}
+h4{
+    font-family: 'Roboto Mono', monospace;
+    padding: 10px;
+}
+.contact{
+    text-align: center;
+    
+}
+#Contact{
+    background-color: #F7CCAC;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+h3{
+   padding-bottom: 15px; 
+}
